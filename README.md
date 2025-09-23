@@ -24,9 +24,9 @@ Whether it’s building seamless web apps, deploying AI models, or fixing bugs 5
 
 ## 📫 Connect With Me
 
-- GitHub: [@preetham](https://github.com/preethamgshiva)  
+- GitHub: [@preethamgshiva](https://github.com/preethamgshiva)  
 - LinkedIn: [Preetham G Shiva](https://www.linkedin.com/in/preetham-g-shiva/)  
-- Instagram: [@preetham](https://www.instagram.com/preetham_gshiva/)  
+- Instagram: [@preetham_gshiva](https://www.instagram.com/preetham_gshiva/)  
 
 ---
 
