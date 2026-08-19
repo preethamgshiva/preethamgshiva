@@ -30,14 +30,4 @@ Whether it’s building seamless web apps, deploying AI models, or fixing bugs 5
 
 ---
 
-## 📊 GitHub Stats
-
-![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetham&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preetham&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=preetham&theme=tokyonight&hide_border=true)
-
----
-
 Thanks for stopping by! Drop a ⭐, raise an issue, or just say hi.
